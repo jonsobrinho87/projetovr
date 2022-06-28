@@ -1,0 +1,8 @@
+local:
+  get_post:
+
+qa:
+  get_post: 'https://portal.vr.com.br/api-web/comum/enumerations/VRPAT'
+
+prod:
+  get_post:
